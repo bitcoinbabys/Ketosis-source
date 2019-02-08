@@ -1,6 +1,14 @@
 KETOsis development tree
 
-KETOsis is a PoS-based cryptocurrency.
+KETOsis is a hybrid PoW/PoS-based cryptocurrency.
+
+Port 8271
+Rpcport 8270
+
+
+
+
+
 Development process
 
 Developers work in their own trees, then submit pull requests when they think their feature or bug fix is ready.
